@@ -1,6 +1,6 @@
 # 🚗 Fleet Management System (Unoesc)
 
-Este projeto consiste em um sistema de **controle de frotas**, desenvolvido como trabalho final da disciplina de Banco de Dados I do curso de Ciências da Computação.
+Este projeto é um sistema de gerenciamento de frotas desenvolvido na disciplina de Banco de Dados I. O foco desta etapa é a modelagem relacional, com criação das entidades, seus atributos e relacionamentos, visando uma estrutura de dados robusta para futuras integrações com sistemas de gestão.
 
 ## 📌 Objetivo
 
