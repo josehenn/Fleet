@@ -35,8 +35,9 @@ O sistema foi modelado com base em um banco de dados relacional, conforme o diag
 
 ## Tecnologias Utilizadas
 
-- Banco de Dados: PostgreSQL
-- Ferramenta de Modelagem: Visual Paradigm
+- PostgreSQL
+- Visual Paradigm
+- DBeaver
 
 ## Integrantes
 
