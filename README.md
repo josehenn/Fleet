@@ -39,7 +39,7 @@ O sistema foi modelado com base em um banco de dados relacional, conforme o diag
 - Visual Paradigm
 - DBeaver
 
-## Integrantes
+## Acadêmicos
 
 - José Henn.
 - Josué Borges.
