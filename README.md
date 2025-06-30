@@ -1,12 +1,12 @@
-# 🚗 Fleet Management System (Unoesc)
+# Fleet (Unoesc)
 
 Este projeto é um sistema de gerenciamento de frotas desenvolvido na disciplina de Banco de Dados I. O foco desta etapa é a modelagem relacional, com criação das entidades, seus atributos e relacionamentos, visando uma estrutura de dados robusta para futuras integrações com sistemas de gestão.
 
-## 📌 Objetivo
+## Objetivo
 
 O sistema tem como finalidade gerenciar veículos, motoristas, manutenções e abastecimentos de maneira eficiente, oferecendo suporte à tomada de decisões para empresas que possuem frotas operacionais.
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 - Cadastro de **empresas**.
 - Controle de **veículos** (marca, modelo, placa, ano, data de cadastro).
@@ -15,7 +15,7 @@ O sistema tem como finalidade gerenciar veículos, motoristas, manutenções e a
 - Lançamento de **manutenções** (data, tipo, custo e status).
 - Registro de **abastecimentos** (data, valor, litros, posto).
 
-## 🧩 Modelo Relacional
+## Modelo Relacional
 
 O sistema foi modelado com base em um banco de dados relacional, conforme o diagrama abaixo:
 
@@ -33,17 +33,17 @@ O sistema foi modelado com base em um banco de dados relacional, conforme o diag
 | `manutencao`   | Histórico de manutenções                       |
 | `abastecimento`| Histórico de abastecimentos                   |
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Banco de Dados: PostgreSQL
 - Ferramenta de Modelagem: Visual Paradigm
 
-## 👥 Integrantes
+## Integrantes
 
 - José Henn.
 - Josué Borges.
 - Luiz Triches.
 
-## 📅 Status do Projeto
+## Status do Projeto
 
 > 🚧 Em desenvolvimento
