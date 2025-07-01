@@ -51,7 +51,7 @@ O sistema foi modelado com base em um banco de dados relacional, conforme o diag
 
 ## Status do Projeto
 
-Primeira parte do nosso 
+Concluímos a primeira parte da modelagem de dados, onde montamos o nosso Sistem de Gerenciamento. No próximo semestre, continuaremos o projeto desenvolvendo mais funcionalidades a ele.
 
 
 
