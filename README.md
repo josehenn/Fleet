@@ -51,7 +51,7 @@ O sistema foi modelado com base em um banco de dados relacional, conforme o diag
 
 ## Status do Projeto
 
-> 🚧 Em desenvolvimento
+Primeira parte do nosso 
 
 
 
