@@ -1,4 +1,8 @@
-# Fleet (Unoesc)
+# Fleet 
+
+![LOGO 2 - AZUL FUNDO BRANCO](https://github.com/user-attachments/assets/42d9beaa-c63a-4d16-adb1-163f6a381a5b)
+
+![Uploading LOGO 2 - AZUL FUNDO BRANCO.png…]()
 
 Este projeto é um sistema de gerenciamento de frotas desenvolvido na disciplina de Banco de Dados I. O foco desta etapa é a modelagem relacional, com criação das entidades, seus atributos e relacionamentos, visando uma estrutura de dados robusta para futuras integrações com sistemas de gestão.
 
