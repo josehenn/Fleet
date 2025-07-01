@@ -22,8 +22,7 @@ O sistema tem como finalidade gerenciar veículos, motoristas, manutenções e a
 
 O sistema foi modelado com base em um banco de dados relacional, conforme o diagrama abaixo:
 
-![image](https://github.com/user-attachments/assets/434ba841-8a98-4331-9cdc-39989d36e0a6)
-
+![Captura de tela 2025-07-01 120457](https://github.com/user-attachments/assets/f254294d-4f6a-4536-b5d2-67f60d303838)
 
 ### Principais Tabelas
 
@@ -51,3 +50,7 @@ O sistema foi modelado com base em um banco de dados relacional, conforme o diag
 ## Status do Projeto
 
 > 🚧 Em desenvolvimento
+
+
+
+![unoesc](https://github.com/user-attachments/assets/cd656d09-4c68-4c50-ab45-7eab4b3a9694)
