@@ -33,7 +33,9 @@ O sistema foi modelado com base em um banco de dados relacional, conforme o diag
 | `motorista`    | Informações pessoais dos motoristas            |
 | `viagem`       | Registro das viagens realizadas                |
 | `manutencao`   | Histórico de manutenções                       |
-| `abastecimento`| Histórico de abastecimentos                   |
+| `abastecimento`| Histórico de abastecimentos                    |
+| `cargas`       | Registro das cargas                            |
+| `doc_viagem`   | Documentos para viagem                         |
 
 ## Tecnologias Utilizadas
 
