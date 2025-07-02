@@ -1,7 +1,6 @@
 # Fleet 
 
-![LOGO 2 - AZUL FUNDO BRANCO](https://github.com/user-attachments/assets/42d9beaa-c63a-4d16-adb1-163f6a381a5b)
-
+<img src="https://github.com/user-attachments/assets/42d9beaa-c63a-4d16-adb1-163f6a381a5b" alt="LOGO 2 - AZUL FUNDO BRANCO" width="250" height="100"/>
 
 Este projeto é um sistema de gerenciamento de frotas desenvolvido na disciplina de Banco de Dados I. O foco desta etapa é a modelagem relacional, com criação das entidades, seus atributos e relacionamentos, visando uma estrutura de dados robusta para futuras integrações com sistemas de gestão.
 
@@ -43,6 +42,11 @@ O sistema foi modelado com base em um banco de dados relacional, conforme o diag
 - Visual Paradigm
 - DBeaver
 
+## 📁 Acesso rápido aos diretórios:
+
+- [📂 Documentos](./Documentos)
+- [📂 Mr Sistema](./Mr%20Sistema)
+  
 ## Acadêmicos
 
 - José Henn.
@@ -54,5 +58,7 @@ O sistema foi modelado com base em um banco de dados relacional, conforme o diag
 Concluímos a primeira parte da modelagem de dados, onde montamos o nosso Sistem de Gerenciamento. No próximo semestre, continuaremos o projeto desenvolvendo mais funcionalidades a ele.
 
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/cd656d09-4c68-4c50-ab45-7eab4b3a9694" alt="unoesc" width="200"/>
+</div>
 
-![unoesc](https://github.com/user-attachments/assets/cd656d09-4c68-4c50-ab45-7eab4b3a9694)
