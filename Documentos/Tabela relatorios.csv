@@ -1,0 +1,29 @@
+"1 Relatório de Veiculos da Frota
+Enunciado: Liste a marca, modelo, placa e ano de todos os veículos cadastrados no sistema. Ordene os resultados em ordem alfabética por marca e, dentro da marca, por modelo.
+Objetivo técnico: Usar SELECT e ORDER BY.";;;;;;;;;"2 Relatório de Manutenções de um Veiculo
+Enunciado:Liste, para um veículo específico, a data da manutenção, o tipo de serviço realizado e o custo correspondente. Ordene os resultados da manutenção pela data, da mais recente para a mais antiga.
+Objetivo técnico: Usar JOIN entre veículos e manutenções, WHERE para filtrar o veículo e ORDER BY.";;;;;;;;;;;;;;;"Relatório Resumido de Custos Operacionais por Veículo
+Enunciado:Mostre, para cada veículo da frota, o número total de manutenções realizadas, o custo total com manutenção e o custo total com abastecimento, em um período definido. Liste apenas os veículos com pelo menos um registro de custo e ordene pelo maior custo total somado.
+Objetivo técnico: Usar JOIN entre veículos, manutenções e abastecimentos, GROUP BY, SUM, COUNT, HAVING e ORDER BY.";;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Marca;Modelo;Placa;Ano;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+DAF;XF FT XF 530;JKL4M56;2024;;;;;;Marca;Modelo;Placa;Data;Tipo de Serviço;Custo;;;;;;;;;;Código;Marca;Modelo;Placa;Qtd de Manutenções;Custo Manutenção (R$);Custo Abastecimento (R$);Custo Total (R$)
+Mercedes-Benz;Actros 2653;GHI3J45;2023;;;;;;VOLVO;FH 540;ABC1D23;2025-06-15 10:30:00.000;Troca de óleo;850;;;;;;;;;;1;VOLVO;FH 540;ABC1D23;1;1.200;300;1.500
+Scania;R 540 A6x4;MNO5P67;2024;;;;;;;;;;;;;;;;;;;;;2;VOLVO;FH 460;DEF2G34;0;0;480;480
+VOLVO;FH 460;DEF2G34;2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+VOLVO;FH 540;ABC1D23;2023;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"3 Relatório de Abastecimento Realizados por Motorista
+Enunciado: Liste o nome do motorista, a data do abastecimento, o veículo utilizado, a quantidade de combustível e o valor total gasto. Exiba apenas registros de um período definido. Ordene os resultados por nome do motorista e, dentro dele, pela data do abastecimento.
+Objetivo técnico: Usar JOIN entre abastecimentos, motoristas e veículos, WHERE com filtro por período e ORDER BY.";;;;;;;;;"Relatório Resumido de Custos Operacionais por Veículo
+Enunciado:Mostre, para cada veículo da frota, o número total de manutenções realizadas, o custo total com manutenção e o custo total com abastecimento, em um período definido. Liste apenas os veículos com pelo menos um registro de custo e ordene pelo maior custo total somado.
+Objetivo técnico: Usar JOIN entre veículos, manutenções e abastecimentos, GROUP BY, SUM, COUNT, HAVING e ORDER BY.";;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Motorista;Data do Abastecimento;Placa do Veículo;Litros Abastecidos;Valor Total (R$);;;;;Código;Marca;Modelo;Placa;Qtd de Manutenções;Custo Manutenção (R$);Custo Abastecimento (R$);Custo Total (R$);;;;;;;;;;;;;;;
+Jose Henn;2025-05-10 08:00:00.000;ABC1D23;50;300;;;;;1;VOLVO;FH 540;ABC1D23;1;1.200;300;1.500;;;;;;;;;;;;;;;
+Luiz Eduardo;2025-05-12 14:30:00.000;DEF2G34;80;480;;;;;2;VOLVO;FH 460;DEF2G34;0;0;480;480;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
