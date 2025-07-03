@@ -8,6 +8,13 @@ Este projeto é um sistema de gerenciamento de frotas desenvolvido na disciplina
 
 O sistema tem como finalidade gerenciar veículos, motoristas, manutenções e abastecimentos de maneira eficiente, oferecendo suporte à tomada de decisões para empresas que possuem frotas operacionais.
 
+## 📁 Acesso rápido aos diretórios:
+
+- [📂 Documentos](./Documentos)
+- [📂 Mr Sistema](./Mr%20Sistema)
+- [📂 Relatórios](./Relatórios)
+- [📂 SQL](./Sql)
+
 ## Funcionalidades
 
 - Cadastro de **empresas**.
@@ -41,11 +48,6 @@ O sistema foi modelado com base em um banco de dados relacional, conforme o diag
 - PostgreSQL
 - Visual Paradigm
 - DBeaver
-
-## 📁 Acesso rápido aos diretórios:
-
-- [📂 Documentos](./Documentos)
-- [📂 Mr Sistema](./Mr%20Sistema)
   
 ## Acadêmicos
 
